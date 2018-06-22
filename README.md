@@ -1,2 +1,2 @@
 # SpringBootSample
-SpringBoot starter sample
+SpringBoot MongoDB starter sample
